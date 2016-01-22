@@ -1,0 +1,8 @@
+To Do:
+
+-Player class maken
+- Money System maken
+- inventory maken
+- Enemy BaseClass maken
+- Level Up system maken
+- 
