@@ -1,1 +1,2 @@
 q:\documenten\visual studio 2013\Projects\TextBasedAdventure\TextBasedAdventure\bin\Debug\TextBasedAdventure.exe.config
+C:\Users\timmie\Desktop\TextAdventureGame\TextBasedAdventure\TextBasedAdventure\bin\Debug\TextBasedAdventure.exe.config
